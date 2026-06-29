@@ -1,5 +1,3 @@
-# Kacham Thanvi
-
 # Hi there! 👋 I'm Thanvi
 
 🎓 B.Tech Student in Computer Science (Artificial Intelligence & Machine Learning)
@@ -69,16 +67,6 @@ I'm a Computer Science (AI & ML) undergraduate passionate about building intelli
 - Designed an intuitive user interface for desktop and mobile devices.
 
 **Tech Stack:** HTML • CSS • JavaScript
-
----
-
-## 📜 Certifications
-
-🏅 Python for Data Science – NPTEL IIT Madras
-
-🏅 Introduction to SQL – Simplilearn
-
-🏅 GenAI Powered Data Analytics Job Simulation – TATA Forage
 
 ---
 
