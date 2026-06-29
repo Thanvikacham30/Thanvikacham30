@@ -14,6 +14,22 @@
 
 ---
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF6B9D&center=true&vCenter=true&width=700&lines=ML+%26+Tech+Enthusiast;Exploring+Data;Solving+Today,+Shaping+Tomorrow" 
+      alt="Typing SVG" 
+    />
+  </a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Thanvikacham30&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+
+  <img src="https://img.shields.io/github/followers/Thanvikacham30?style=for-the-badge&color=orange" alt="GitHub Followers"/>
+
+  <img src="https://img.shields.io/github/stars/Thanvikacham30?style=for-the-badge&color=yellow" alt="GitHub Stars"/>
+</p>
+
 ## 🚀 About Me
 
 I'm a Computer Science (AI & ML) undergraduate passionate about building intelligent applications and solving real-world problems using technology.
