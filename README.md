@@ -98,6 +98,20 @@ I'm a Computer Science (AI & ML) undergraduate passionate about building intelli
 
 ---
 
+## Streak Stats
+
+<div align="center">
+
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Thanvikacham30&theme=default&background=ffffff&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=000000&dates=555555&sideNums=000000&currStreakNum=000000&border=dddddd"/>
+
+</div> 
+
+---
+
+## Recent GitHub Activity
+
+<p align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Thanvikacham30&theme=tokyo-night&bg_color=0D1117&color=00BFFF&line=00BFFF&point=fafafa&area=true&hide_border=true"/> </p>
+
 ## 📫 Connect with Me
 
 <p align="center">
