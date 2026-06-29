@@ -4,15 +4,11 @@
 
 </div>
 
----
-
 <div align="center">
   
 Aspiring Software Developer | Data Analyst | Machine Learning Enthusiast
   
 </div>
-
----
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -71,7 +67,7 @@ I'm a Computer Science (AI & ML) undergraduate passionate about building intelli
 
 ---
 
-### Core Concepts
+## Core Concepts
 - Object-Oriented Programming (OOP)
 - DBMS
 - Machine Learning
@@ -88,7 +84,6 @@ I'm a Computer Science (AI & ML) undergraduate passionate about building intelli
 
 **Tech Stack:** Python • Flask • Scikit-learn • Machine Learning
 
----
 
 ### 🚗 IntelliPark – Smart Parking Management System
 - Developed a responsive Smart Parking System for locating nearby parking spaces.
