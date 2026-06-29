@@ -89,6 +89,11 @@ I'm a Computer Science (AI & ML) undergraduate passionate about building intelli
 <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="50"/>
 </a>
 </p>
+
 ---
 
+<div align = "center">
+  
 ⭐ *"Learning by building, improving one project at a time."*
+
+</div>
