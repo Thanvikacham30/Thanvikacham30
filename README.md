@@ -8,7 +8,7 @@
 
 <div align="center">
   
-💻 Aspiring Software Developer | Data Analyst | Machine Learning Enthusiast
+Aspiring Software Developer | Data Analyst | Machine Learning Enthusiast
   
 </div>
 
@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF6B9D&center=true&vCenter=true&width=700&lines=ML+%26+Tech+Enthusiast;Exploring+Data;Solving+Today,+Shaping+Tomorrow" 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=ML+%26+Tech+Enthusiast;Transforming+Data+into+Decisions;Learning.+Building.+Improving." 
       alt="Typing SVG" 
     />
   </a>
@@ -29,6 +29,9 @@
 
   <img src="https://img.shields.io/github/stars/Thanvikacham30?style=for-the-badge&color=yellow" alt="GitHub Stars"/>
 </p>
+
+---
+
 
 ## 🚀 About Me
 
@@ -61,9 +64,9 @@ I'm a Computer Science (AI & ML) undergraduate passionate about building intelli
 
 ### Tools
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?logo=visualstudiocode&logoColor=white&style=for-the-badge)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge)
 
 ---
