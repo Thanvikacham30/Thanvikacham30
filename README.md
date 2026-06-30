@@ -44,7 +44,7 @@ I'm a Computer Science (AI & ML) undergraduate passionate about building intelli
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
-![SQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sql&logoColor=fff&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
 
 ### Web Development
