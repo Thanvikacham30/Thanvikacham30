@@ -13,7 +13,7 @@ Aspiring Software Developer | Data Analyst | Machine Learning Enthusiast
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=ML+%26+Tech+Enthusiast;Transforming+Data+into+Decisions;Learning.+Building.+Improving." 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=ML+%26+Tech+Enthusiast;Transforming+Data+into+Decisions;Learn.+Adapt.+Grow." 
       alt="Typing SVG" 
     />
   </a>
