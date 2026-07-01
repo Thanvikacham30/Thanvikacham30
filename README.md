@@ -27,8 +27,6 @@ Aspiring Software Developer | Data Analyst | Machine Learning Enthusiast
 </p>
 
 ---
-
-
 ## 🚀 About Me
 
 I'm a Computer Science (AI & ML) undergraduate passionate about building intelligent applications and solving real-world problems using technology.
