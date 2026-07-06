@@ -92,7 +92,7 @@ I'm a Computer Science (AI & ML) undergraduate passionate about building intelli
 
 ---
 
-## Streak Stats
+## Streak Stats 
 
 <div align="center">
 
