@@ -67,7 +67,7 @@ I'm a Computer Science (AI & ML) undergraduate passionate about building intelli
 ---
 
 ## Core Concepts
-- Object-Oriented Programming (OOP)
+- Object-Oriented Programming\
 - DBMS
 - Machine Learning
 - Artificial Intelligence
