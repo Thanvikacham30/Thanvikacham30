@@ -64,9 +64,7 @@ I'm a Computer Science (AI & ML) undergraduate passionate about building intelli
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge)
 
----
-
-## Core Concepts
+### Core Concepts
 ![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-blue?style=for-the-badge)
 ![OS](https://img.shields.io/badge/Operating%20Systems-grey?style=for-the-badge)
 ![DBMS](https://img.shields.io/badge/Database%20Management-red?style=for-the-badge)
@@ -120,6 +118,14 @@ I'm a Computer Science (AI & ML) undergraduate passionate about building intelli
 <a href="mailto:thanvikacham@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="50"/>
 </a>
+</p>
+
+---
+
+## 💭 Daily Inspiration
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </p>
 
 ---
