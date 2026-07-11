@@ -67,13 +67,12 @@ I'm a Computer Science (AI & ML) undergraduate passionate about building intelli
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge)
 
 ### Core Concepts
-![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-blue?style=for-the-badge)
-![OS](https://img.shields.io/badge/Operating%20Systems-grey?style=for-the-badge)
-![DBMS](https://img.shields.io/badge/Database%20Management-red?style=for-the-badge)
-![CN](https://img.shields.io/badge/Computer%20Networks-purple?style=for-the-badge)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-orange?style=for-the-badge)
-![ML](https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge)
-
+![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-2563EB?style=for-the-badge)
+![OS](https://img.shields.io/badge/Operating%20Systems-475569?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/Database%20Management-0F766E?style=for-the-badge)
+![CN](https://img.shields.io/badge/Computer%20Networks-7C3AED?style=for-the-badge)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-DC2626?style=for-the-badge)
+![ML](https://img.shields.io/badge/Machine%20Learning-16A34A?style=for-the-badge)
 
 ---
 
