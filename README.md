@@ -67,10 +67,13 @@ I'm a Computer Science (AI & ML) undergraduate passionate about building intelli
 ---
 
 ## Core Concepts
-- Object-Oriented Programming\
-- DBMS
-- Machine Learning
-- Artificial Intelligence
+![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-blue?style=for-the-badge)
+![OS](https://img.shields.io/badge/Operating%20Systems-grey?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/Database%20Management-red?style=for-the-badge)
+![CN](https://img.shields.io/badge/Computer%20Networks-purple?style=for-the-badge)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-orange?style=for-the-badge)
+![ML](https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge)
+
 
 ---
 
@@ -105,6 +108,8 @@ I'm a Computer Science (AI & ML) undergraduate passionate about building intelli
 ## Recent GitHub Activity
 
 <p align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Thanvikacham30&theme=tokyo-night&bg_color=0D1117&color=00BFFF&line=00BFFF&point=fafafa&area=true&hide_border=true"/> </p>
+
+---
 
 ## 📫 Connect with Me
 
