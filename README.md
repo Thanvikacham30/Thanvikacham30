@@ -93,6 +93,14 @@ I'm a Computer Science (AI & ML) undergraduate passionate about building intelli
 **Tech Stack:** HTML • CSS • JavaScript
 
 ---
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thanvikacham30&theme=rose_pine" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thanvikacham30&theme=rose_pine" />
+</div>
+
+---
 
 ## Streak Stats 
 
