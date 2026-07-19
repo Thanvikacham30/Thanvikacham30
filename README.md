@@ -1,146 +1,261 @@
 <div align="center">
-  
-# Hi there! 👋 I'm Thanvi
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30&text=Thanvi&fontColor=FFFFFF&fontSize=60&animation=twinkling&fontAlignY=40"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Full+Stack+Developer;Python+Programmer;Building+Intelligent+Applications"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Thanvikacham30&style=for-the-badge&color=blueviolet"/>
+
+<img src="https://img.shields.io/github/followers/Thanvikacham30?style=for-the-badge&logo=github&color=blueviolet"/>
+
+<img src="https://img.shields.io/github/stars/Thanvikacham30?affiliations=OWNER&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
-<div align="center">
-  
-Aspiring Software Developer | Data Analyst | Machine Learning Enthusiast
-  
-</div>
+---
+
+# 👋 Hello, I'm Thanvi
+
+🎓 Computer Science Undergraduate specializing in **Artificial Intelligence & Machine Learning**
+
+💻 Passionate about developing intelligent applications, solving real-world problems, and continuously learning new technologies.
+
+I enjoy transforming ideas into software that is practical, scalable, and user-friendly.
+
+---
+
+# 🚀 About Me
+
+- 🎓 B.Tech in Computer Science (AI & ML)
+- 🤖 Passionate about Artificial Intelligence
+- 📊 Interested in Data Analytics & Machine Learning
+- 🌐 Full Stack Web Development Enthusiast
+- 💡 Love building real-world projects
+- 🤝 Open to internships and collaborative projects
+- 📚 Always learning new technologies
+
+---
+
+# 🎯 Current Focus
+
+- 🌱 Learning **Spring Boot**
+- 🤖 Exploring **Deep Learning & Generative AI**
+- 🌐 Improving Full Stack Development skills
+- 💼 Preparing for Software Development roles
+- 🚀 Building impactful AI projects
+
+---
+
+# 💻 Tech Stack
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=ML+%26+Tech+Enthusiast;Transforming+Data+into+Decisions;Learn.+Adapt.+Grow." 
-      alt="Typing SVG" 
-    />
-  </a>
+
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,flask,mysql,git,github,vscode,sklearn,pandas,numpy"/>
+
 </p>
+
+---
+
+# 📚 Core Concepts
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Thanvikacham30&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 
-  <img src="https://img.shields.io/github/followers/Thanvikacham30?style=for-the-badge&color=orange" alt="GitHub Followers"/>
+<img src="https://img.shields.io/badge/OOP-blue?style=for-the-badge"/>
 
-  <img src="https://img.shields.io/github/stars/Thanvikacham30?style=for-the-badge&color=yellow" alt="GitHub Stars"/>
+<img src="https://img.shields.io/badge/Operating%20Systems-grey?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DBMS-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Computer%20Networks-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-success?style=for-the-badge"/>
+
 </p>
 
 ---
-## 🚀 About Me
 
-I'm a Computer Science (AI & ML) undergraduate passionate about building intelligent applications and solving real-world problems using technology.
+# 🌟 Featured Projects
 
--  Currently learning Java, Machine Learning, and Full Stack Development
--  Interested in Software Development, AI, and Data Analytics
--  Open to internships and collaborative projects
--  Goal: Build impactful software solutions and continuously improve my technical skills
+## 📊 ClickWise AI
 
----
+Machine Learning based Click Through Rate Prediction System.
 
-## 🛠️ Tech Stack
+### Features
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sql&logoColor=fff&style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
+- Logistic Regression
+- Data Cleaning
+- Feature Engineering
+- 90.5% Accuracy
+- Flask Web App
 
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+**Tech Stack**
 
-### Frameworks & Libraries
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
-
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
-
-### Tools
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?logo=visualstudiocode&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge)
-
-### Core Concepts
-![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-2563EB?style=for-the-badge)
-![OS](https://img.shields.io/badge/Operating%20Systems-475569?style=for-the-badge)
-![DBMS](https://img.shields.io/badge/Database%20Management-0F766E?style=for-the-badge)
-![CN](https://img.shields.io/badge/Computer%20Networks-7C3AED?style=for-the-badge)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-DC2626?style=for-the-badge)
-![ML](https://img.shields.io/badge/Machine%20Learning-16A34A?style=for-the-badge)
+Python • Flask • Scikit-Learn • Pandas
 
 ---
 
-## 🚀 Featured Projects
+## 🚗 IntelliPark
 
-### 📊 ClickWise AI – CTR Prediction System
-- Built a Click-Through Rate (CTR) Prediction System using Python, Flask, and Scikit-learn.
-- Implemented data preprocessing, feature engineering, and Logistic Regression.
-- Achieved **90.5% prediction accuracy** on advertising data.
+Smart Parking Management System.
 
-**Tech Stack:** Python • Flask • Scikit-learn • Machine Learning
+### Features
 
+- Responsive UI
+- Parking Slot Management
+- Interactive Design
 
-### 🚗 IntelliPark – Smart Parking Management System
-- Developed a responsive Smart Parking System for locating nearby parking spaces.
-- Designed an intuitive user interface for desktop and mobile devices.
+**Tech Stack**
 
-**Tech Stack:** HTML • CSS • JavaScript
+HTML • CSS • JavaScript
 
 ---
-## 📊 GitHub Analytics
+
+## 🤖 AI Quiz Challenge
+
+A desktop quiz application inspired by **Who Wants to Be a Millionaire?**
+
+### Features
+
+- 🎨 Modern Tkinter GUI
+- 🎲 Random question selection
+- 🔀 Randomized options
+- ⏳ Countdown Timer
+- 🏆 Prize Ladder
+- 🎉 Winner Screen
+- 🔄 Restart Game
+
+**Tech Stack**
+
+Python • Tkinter • OOP
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thanvikacham30&theme=rose_pine" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thanvikacham30&theme=rose_pine" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thanvikacham30&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanvikacham30&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
 
-## Streak Stats 
+# 🔥 GitHub Streak
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Thanvikacham30&theme=default&background=ffffff&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=000000&dates=555555&sideNums=000000&currStreakNum=000000&border=dddddd"/>
+<img src="https://streak-stats.demolab.com?user=Thanvikacham30&theme=tokyonight&hide_border=true"/>
 
-</div> 
-
----
-
-## Recent GitHub Activity
-
-<p align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Thanvikacham30&theme=tokyo-night&bg_color=0D1117&color=00BFFF&line=00BFFF&point=fafafa&area=true&hide_border=true"/> </p>
+</div>
 
 ---
 
-## 📫 Connect with Me
+# 🏆 GitHub Trophies
 
-<p align="center">
-<a href="https://linkedin.com/in/kacham-thanvi/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Kacham%20Thanvi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="50"/>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Thanvikacham30&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=4"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thanvikacham30&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 📌 GitHub Summary Cards
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thanvikacham30&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thanvikacham30&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Thanvikacham30&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/Thanvikacham30/Thanvikacham30/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+> **Note:** The contribution snake requires a GitHub Action to generate automatically.
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/kacham-thanvi/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
+
 <a href="mailto:thanvikacham@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="50"/>
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
-</p>
 
----
-
-## 💭 Daily Inspiration
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
-</p>
-
----
-
-<div align = "center">
-  
-⭐ *"Learning by building, improving one project at a time."*
+<a href="https://github.com/Thanvikacham30">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
 </div>
+
+---
+
+# 💬 Favorite Quote
+
+<div align="center">
+
+> **"The best way to predict the future is to create it."** — *Peter Drucker*
+
+</div>
+
+---
+
+# 💡 Fun Fact
+
+<div align="center">
+
+⚡ I enjoy turning ideas into software, solving real-world problems, and continuously learning new technologies.
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider following me and starring my repositories.
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=12,20,24,30"/>
