@@ -42,7 +42,6 @@ I enjoy transforming ideas into software that is practical, scalable, and user-f
 
 # 🎯 Current Focus
 
-- 🌱 Learning **Spring Boot**
 - 🤖 Exploring **Deep Learning & Generative AI**
 - 🌐 Improving Full Stack Development skills
 - 💼 Preparing for Software Development roles
@@ -190,11 +189,10 @@ Python • Tkinter • OOP
 
 # 🐍 Contribution Snake
 
-<div align="center">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Snake animation GIF" width="100%" />
+</p>
 
-![Snake animation](https://github.com/Thanvikacham30/Thanvikacham30/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ---
 
