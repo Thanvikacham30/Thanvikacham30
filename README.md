@@ -158,16 +158,6 @@ Python • Tkinter • OOP
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Thanvikacham30&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=4"/>
-
-</div>
-
----
-
 # 📈 Contribution Graph
 
 <div align="center">
@@ -205,8 +195,6 @@ Python • Tkinter • OOP
 ![Snake animation](https://github.com/Thanvikacham30/Thanvikacham30/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-
-> **Note:** The contribution snake requires a GitHub Action to generate automatically.
 
 ---
 
