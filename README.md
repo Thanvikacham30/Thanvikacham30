@@ -81,57 +81,21 @@ I enjoy transforming ideas into software that is practical, scalable, and user-f
 
 # 🌟 Featured Projects
 
-## 📊 ClickWise AI
+<p align="center">
+  <a href="https://github.com/Thanvikacham30/ClickWise-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thanvikacham30&repo=ClickWise-AI&theme=tokyonight&hide_border=true" />
+  </a>
 
-Machine Learning based Click Through Rate Prediction System.
+  <a href="https://github.com/Thanvikacham30/IntelliPark">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thanvikacham30&repo=IntelliPark&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
-### Features
-
-- Logistic Regression
-- Data Cleaning
-- Feature Engineering
-- 90.5% Accuracy
-- Flask Web App
-
-**Tech Stack**
-
-Python • Flask • Scikit-Learn • Pandas
-
----
-
-## 🚗 IntelliPark
-
-Smart Parking Management System.
-
-### Features
-
-- Responsive UI
-- Parking Slot Management
-- Interactive Design
-
-**Tech Stack**
-
-HTML • CSS • JavaScript
-
----
-
-## 🤖 AI Quiz Challenge
-
-A desktop quiz application inspired by **Who Wants to Be a Millionaire?**
-
-### Features
-
-- 🎨 Modern Tkinter GUI
-- 🎲 Random question selection
-- 🔀 Randomized options
-- ⏳ Countdown Timer
-- 🏆 Prize Ladder
-- 🎉 Winner Screen
-- 🔄 Restart Game
-
-**Tech Stack**
-
-Python • Tkinter • OOP
+<p align="center">
+  <a href="https://github.com/Thanvikacham30/AI-Quiz-Challenge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thanvikacham30&repo=AI-Quiz-Challenge&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ---
 
