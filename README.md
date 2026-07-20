@@ -83,17 +83,21 @@ I enjoy transforming ideas into software that is practical, scalable, and user-f
 
 <p align="center">
   <a href="https://github.com/Thanvikacham30/ClickWise-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thanvikacham30&repo=ClickWise-AI&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Thanvikacham30&repo=ClickWise-AI&theme=nord" />
   </a>
 
-  <a href="https://github.com/Thanvikacham30/IntelliPark">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thanvikacham30&repo=IntelliPark&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Thanvikacham30/SecureUPI">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Thanvikacham30&repo=SecureUPI&theme=nord" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Thanvikacham30/AI-Quiz-Challenge">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thanvikacham30&repo=AI-Quiz-Challenge&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Thanvikacham30/IntelliPark">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Thanvikacham30&repo=IntelliPark&theme=nord" />
+  </a>
+
+  <a href="https://github.com/Thanvikacham30/CNN_Classification">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Thanvikacham30&repo=CNN_Classification&theme=nord" />
   </a>
 </p>
 
