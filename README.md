@@ -86,8 +86,8 @@ I enjoy transforming ideas into software that is practical, scalable, and user-f
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Thanvikacham30&repo=ClickWise-AI&theme=nord" />
   </a>
 
-  <a href="https://github.com/Thanvikacham30/SecureUPI">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Thanvikacham30&repo=SecureUPI&theme=nord" />
+  <a href="https://github.com/Thanvikacham30/AI-Quiz-Challenge">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Thanvikacham30&repo=AI-Quiz-Challenge&theme=nord" />
   </a>
 </p>
 
