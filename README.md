@@ -182,16 +182,6 @@ I enjoy transforming ideas into software that is practical, scalable, and user-f
 
 ---
 
-# 💡 Fun Fact
-
-<div align="center">
-
-⚡ I enjoy turning ideas into software, solving real-world problems, and continuously learning new technologies.
-
-</div>
-
----
-
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
