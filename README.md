@@ -5,7 +5,7 @@
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Full+Stack+Developer;Python+Programmer;Building+Intelligent+Applications"/>
-
+   
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Thanvikacham30&style=for-the-badge&color=blueviolet"/>
