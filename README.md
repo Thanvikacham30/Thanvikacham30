@@ -144,40 +144,35 @@ I enjoy transforming ideas into software that is practical, scalable, and user-f
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Snake animation GIF" width="100%" />
-</p>
-
-
----
-
-# 🌐 Connect With Me
+# 💡 Behind the Code
 
 <div align="center">
 
+### Learn → Build → Break → Debug → Improve → Repeat 🔁
+
+<br>
+
+> **"Great software is built by solving one problem at a time."**
+
+</div>
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Thanvikacham30">
+<img src="https://img.shields.io/badge/GitHub-Thanvikacham30-181717?style=for-the-badge&logo=github"/>
+</a>
+
 <a href="https://linkedin.com/in/kacham-thanvi/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Kacham%20Thanvi-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:thanvikacham@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
-
-<a href="https://github.com/Thanvikacham30">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</div>
-
----
-
-# 💬 Favorite Quote
-
-<div align="center">
-
-> **"The best way to predict the future is to create it."** — *Peter Drucker*
 
 </div>
 
@@ -185,10 +180,17 @@ I enjoy transforming ideas into software that is practical, scalable, and user-f
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thank you for visiting my profile!
 
-If you like my work, consider following me and starring my repositories.
+**If you find my projects interesting, consider giving them a ⭐**
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&height=40&lines=Thanks+for+stopping+by!;Keep+learning+%F0%9F%9A%80;Keep+building+%F0%9F%92%BB;Keep+growing+%F0%9F%8C%B1"/>
 
 </div>
+
+<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=12,20,24,30"/>
+
