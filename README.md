@@ -101,6 +101,20 @@ I enjoy transforming ideas into software that is practical, scalable, and user-f
   </a>
 </p>
 
+## ⭐ Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Thanvikacham30/AI-Quiz-Challenge">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Thanvikacham30&repo=AI-Quiz-Challenge&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Thanvikacham30/ClickWise-AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Thanvikacham30&repo=ClickWise-AI&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
 ---
 
 # 🔥 GitHub Streak
