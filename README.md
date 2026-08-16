@@ -2,7 +2,7 @@
                         
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30&text=Kacham+Thanvi&fontColor=FFFFFF&fontSize=48&animation=twinkling&fontAlignY=40"/>   
             
-<br>
+<br>    
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Full+Stack+Developer;Python+Programmer;Building+Intelligent+Applications"/>
    
