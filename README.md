@@ -48,13 +48,13 @@ I enjoy transforming ideas into software that is practical, scalable, and user-f
 - 🚀 Building impactful AI projects
 
 ---
-
+                              
 # 💻 Tech Stack
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,java,html,css,js,flask,mysql,git,github,vscode,sklearn,pandas,numpy"/>
-
+                   
 </p>
 
 ---
