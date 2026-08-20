@@ -36,7 +36,7 @@ I enjoy transforming ideas into software that is practical, scalable, and user-f
 - 🌐 Full Stack Web Development Enthusiast
 - 💡 Love building real-world projects
 - 🤝 Open to internships and collaborative projects
-- 📚 Always learning new technologies
+- 📚 Always learning new technologies      
 
 ---
 
