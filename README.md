@@ -174,13 +174,13 @@ I enjoy transforming ideas into software that is practical, scalable, and user-f
 <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-</div>
+</div>       
 
 ---
 
 <div align="center">
 
-### ⭐ Thank you for visiting my profile!
+### ⭐ Thank you for visiting my profile!    
 
 **If you find my projects interesting, consider giving them a ⭐**
 
